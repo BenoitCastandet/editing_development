@@ -1,6 +1,6 @@
 # editing_development
 
-This contains the supplementary file for the article
+The directory editing_vs_editing_factor.pdf contains the supplementary file for the article below
 
 A Guide to the Chloroplast Transcriptome Analysis Using RNA-Seq
 
